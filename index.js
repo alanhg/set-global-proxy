@@ -48,3 +48,5 @@ exports.disableProxy = function(sudo) {
   var disableProxy = getProxyMgr().disableProxy;
   return disableProxy(sudo);
 };
+
+exports.getCurProxy = getProxyMgr().getCurProxy;

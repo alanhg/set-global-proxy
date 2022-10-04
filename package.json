@@ -1,7 +1,7 @@
 {
-  "name": "set-global-proxy",
+  "name": "@stacker/set-global-proxy",
   "description": "Set global proxy for PC",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "author": "avenwu <avenwu@vip.qq.com>",
   "contributors": [],
   "license": "MIT",
